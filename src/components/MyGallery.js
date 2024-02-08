@@ -1,11 +1,11 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard, ProjectCards } from "./ProjectCard";
-import projImg1 from "../assets/img/1.jpeg";
-import projImg2 from "../assets/img/2.jpeg";
-import projImg3 from "../assets/img/3.jpeg";
-import projImg4 from "../assets/img/4.jpeg";
-import projImg5 from "../assets/img/5.jpeg";
-import projImg6 from "../assets/img/6.jpeg";
+import projImg1 from "../assets/img/1.webp";
+import projImg2 from "../assets/img/2.webp";
+import projImg3 from "../assets/img/3 .webp";
+import projImg4 from "../assets/img/4.webp";
+import projImg5 from "../assets/img/5.webp";
+import projImg6 from "../assets/img/6.webp";
 
 
 import colorSharp2 from "../assets/img/color-sharp2.png";
