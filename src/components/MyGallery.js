@@ -2,10 +2,13 @@ import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard, ProjectCards } from "./ProjectCard";
 import projImg1 from "../assets/img/1.webp";
 import projImg2 from "../assets/img/2.webp";
-import projImg3 from "../assets/img/3 .webp";
+import projImg3 from "../assets/img/3.webp";
 import projImg4 from "../assets/img/4.webp";
 import projImg5 from "../assets/img/5.webp";
 import projImg6 from "../assets/img/6.webp";
+import projImg7 from "../assets/img/7.webp";
+import projImg8 from "../assets/img/8.webp";
+import projImg9 from "../assets/img/9.webp";
 
 
 import colorSharp2 from "../assets/img/color-sharp2.png";
@@ -51,7 +54,24 @@ export const MyGallery = () => {
       title: "",
       description: "",
       imgUrl: projImg6,
-    },,
+    },
+
+    {
+      title: "",
+      description: "",
+      imgUrl: projImg7,
+    },
+
+    {
+      title: "",
+      description: "",
+      imgUrl: projImg8,
+    },
+    {
+      title: "",
+      description: "",
+      imgUrl: projImg9,
+    }
   
   ];
 
