@@ -141,7 +141,7 @@
     border-radius: 10px;
   background-color:transparent;
   border:1px solid #fff;
-  color:#fff;
+  color:#ffffff;
   font-size:18px;
   font-weight:700;
   margin-left:18px;
@@ -155,7 +155,8 @@
   }
   
   .navbar-text button::before {
-  background-color:#fff;
+  background-color:#ffffff;
+  border-radius: 8px;
   content:"";
   height:100%;
   left:0;
@@ -230,7 +231,7 @@
   }
   
   nav.navbar .navbar-nav .nav-link.navbar-link {
-  color:#fff!important;
+  color:#ffffff!important;
   font-size:18px;
   font-weight:400;
   letter-spacing:.8px;
@@ -257,7 +258,7 @@
   }
   
   nav.navbar .navbar-toggler-icon:after,nav.navbar .navbar-toggler-icon:before {
-  background-color:#fff;
+  background-color:#ffffff;
   content:'';
   height:2px;
   left:0;
